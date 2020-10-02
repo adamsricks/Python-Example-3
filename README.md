@@ -10,7 +10,7 @@ IDE and Python, and the included random module.
 VS Code has a built-in runner, and Python is integrated, so no need for a build.
 
 ### Screenshot
-![screenshot of program working](https://github.com/adamsricks/Python-Example-3/blob/master/program_screenshot.png)
+![screenshot of program working](https://github.com/adamsricks/Python-Example-3/blob/main/program_screenshot.png)
 
 ### Useful links
 [How to import your own modules](https://www.programiz.com/python-programming/modules)  
